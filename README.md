@@ -1,4 +1,4 @@
-# apple-website
+# Website
 
 ## Project setup
 ```
